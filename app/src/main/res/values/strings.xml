@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">STPython</string>
+    <string name = "gender">
+        <item>Select Gender</item>
+
+    </string>
+
+</resources>
